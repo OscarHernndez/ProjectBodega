@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win.Bodega", "Win.Bodega\Win.Bodega.csproj", "{6969FD91-23A0-4926-8589-C293E0F12932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL.Bodega", "BL.Bodega\BL.Bodega.csproj", "{C33B308A-60AB-468A-B901-BAC37E99E852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6969FD91-23A0-4926-8589-C293E0F12932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6969FD91-23A0-4926-8589-C293E0F12932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6969FD91-23A0-4926-8589-C293E0F12932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6969FD91-23A0-4926-8589-C293E0F12932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33B308A-60AB-468A-B901-BAC37E99E852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33B308A-60AB-468A-B901-BAC37E99E852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33B308A-60AB-468A-B901-BAC37E99E852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33B308A-60AB-468A-B901-BAC37E99E852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
